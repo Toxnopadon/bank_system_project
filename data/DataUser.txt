@@ -1,0 +1,15 @@
+Name: test1
+Password: 123
+Cash: 0
+Name: test2
+Password: 1234
+Cash: 0
+Name: test3
+Password: 123
+Cash: 0
+Name: mookky
+Password: 123
+Cash: 0
+Name: 1234
+Password: 1234
+Cash: 246
